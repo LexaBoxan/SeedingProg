@@ -1,0 +1,80 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.manifest
+*.spec
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual env
+.venv/
+venv/
+env/
+ENV/
+*.env
+.envrc
+
+# Logs & dumps
+*.log
+*.out
+*.err
+*.pid
+
+# =========================
+# IDE / Editors
+# =========================
+# PyCharm / JetBrains
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# =========================
+# Project artifacts
+# =========================
+# ML / DL outputs
+runs/
+seg_out/
+results/
+checkpoints/
+output/
+outputs/
+logs/
+qt-material/
+
+# Big model files
+*.pt
+*.pth
+*.ckpt
+*.t7
+*.h5
+*.onnx
+*.pb
+
+# Dataset & data dumps
+dataset/
+data/
+*.csv
+*.tsv
+*.parquet
+*.zip
+*.tar
+*.tar.gz
+
+# =========================
+# OS / Misc
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
