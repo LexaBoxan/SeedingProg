@@ -45,8 +45,8 @@ ENV/
 # =========================
 # ML / DL outputs
 runs/
-seg_out/
-results/
+
+
 checkpoints/
 output/
 outputs/
@@ -63,7 +63,7 @@ qt-material/
 *.pb
 
 # Dataset & data dumps
-dataset/
+
 data/
 *.csv
 *.tsv

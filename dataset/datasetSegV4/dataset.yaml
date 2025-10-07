@@ -1,0 +1,8 @@
+# Датасет YOLO-seg (по боксам, один сеянец = один сэмпл)
+path: 
+train: E:/_JOB_/_Python/Seeding/dataset/datasetSegV4/train/images
+val:   E:/_JOB_/_Python/Seeding/dataset/datasetSegV4/valid/images
+test:  E:/_JOB_/_Python/Seeding/dataset/datasetSegV4/test/images
+
+names:
+  0: Seeding

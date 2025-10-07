@@ -1,0 +1,8 @@
+# Датасет для Ultralytics YOLO (seg)
+path: 
+train: C:/Users/alesh/Ceynth/dataset/train/images
+val:   C:/Users/alesh/Ceynth/dataset/valid/images
+test:  C:/Users/alesh/Ceynth/dataset/test/images
+
+names:
+  0: Seeding
